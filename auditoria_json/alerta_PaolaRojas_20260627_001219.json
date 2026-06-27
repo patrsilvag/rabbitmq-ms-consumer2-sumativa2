@@ -1,0 +1,7 @@
+{
+  "nombrePaciente" : "Paola Rojas",
+  "habitacion" : "100",
+  "colorAlerta" : "Amarillo",
+  "signosVitales" : "Frecuencia Cardiaca 100 bpm",
+  "estado" : "PENDIENTE"
+}
